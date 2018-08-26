@@ -53,3 +53,5 @@ class Solution {
         }
     }
 }
+
+/* Solution 2: use DP to cache the intermediate results.*/
