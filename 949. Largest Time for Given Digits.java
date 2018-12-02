@@ -22,7 +22,7 @@ Note:
 A.length == 4
 0 <= A[i] <= 9
 */
-lass Solution {
+class Solution {
     public String largestTimeFromDigits(int[] A) {
         String time = "";
         String str = "";
