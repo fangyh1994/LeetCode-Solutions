@@ -37,7 +37,7 @@ class ZeroEvenOdd {
         this.n = n;
         runEven = new Semaphore(0);
         runOdd = new Semaphore(0);
-        runZero = new Semaphore(1);
+        runZero = new Semaphore(1); 
     }
 
     // printNumber.accept(x) outputs "x", where x is an integer.
